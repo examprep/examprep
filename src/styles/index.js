@@ -1,12 +1,14 @@
 import React from 'react';
 import {
-    StyleSheet
+    StyleSheet,
+    Platform
 } from 'react-native';
 
 const styles = StyleSheet.create({
     container: {
         flex: 1,
         // alignItems: "center",
+        // marginTop: Platform.OS === "ios" ? 50 : 0,
         padding: 20
     },
     textStartSection: {
@@ -34,7 +36,7 @@ const styles = StyleSheet.create({
     },
     categoryCardItem: {
         height: 120,
-        width: '50%',
+        width: '47%',
         alignItems: "center",
         justifyContent: "center"
     },
@@ -81,6 +83,10 @@ const styles = StyleSheet.create({
         borderRadius: 50 / 2,
         justifyContent: "center",
         alignItems: "center"
+    },
+    answerCardAlign: {
+        flexDirection: "row",
+        justifyContent: "space-evenly"
     }
 })
 
