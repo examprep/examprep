@@ -1,0 +1,1756 @@
+{
+  "Mathematics": [
+    {
+      "id": 9103,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+      "image_asset": [],
+      "options": [
+        "A.   25",
+        "B.   19",
+        "C.   18",
+        "D.   17"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/6?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 6356,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If log 10 to base 8 = X, evaluate log 5 to base 8 in terms of X.",
+      "image_asset": [],
+      "options": [
+        "A.   \\(\\frac{1}{2}\\)X",
+        "B.   X-\\(\\frac{1}{4}\\)",
+        "C.   X-\\(\\frac{1}{3}\\)",
+        "D.   X-\\(\\frac{1}{2}\\)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/9?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 1257,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the value of X if \\(\\frac{\\sqrt{2}}{x+\\sqrt{2}}=\\frac{1}{x-\\sqrt{2}}\\)",
+      "image_asset": [],
+      "options": [
+        "A.   3√2+4",
+        "B.   3√2-4",
+        "C.   3-2√2",
+        "D.   4+2√2"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/10?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 2897,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If \\(\\frac{(a^2 b^{-3}c)^{\\frac{3}{4}}}{a^{-1}b^{4}c^{5}}=a^{p} b^{q} c^{r}\\) What is the value of p+2q?",
+      "image_asset": [],
+      "options": [
+        "A.   (5/2)",
+        "B.   -(5/4)",
+        "C.   -(25/4)",
+        "D.   -10"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/11?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 2004,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If {(a2b-3c)3/4/a-1b4c5} = apbqcr; what is the value of p+2q?",
+      "image_asset": [],
+      "options": [
+        "A.   (5/2)",
+        "B.   -(5/4)",
+        "C.   -(25/4)",
+        "D.   -10"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/12?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 2057,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A trader bought 100 oranges at 5 for N1.20, 20 oranges got spoilt and the remaining were sold at 4 for N1.50. Find the percentage gain or loss.",
+      "image_asset": [],
+      "options": [
+        "A.   30% gain",
+        "B.   25% gain",
+        "C.   30% loss",
+        "D.   25% loss"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/13?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 8427,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "What is the answer when 24346 is divided by 426?",
+      "image_asset": [],
+      "options": [
+        "A.   236",
+        "B.   356",
+        "C.   526",
+        "D.   556"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/14?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 8901,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If 29 x (3Y)9 = 35 x (3Y)5, find the value of Y.",
+      "image_asset": [],
+      "options": [
+        "A.   4",
+        "B.   3",
+        "C.   2",
+        "D.   1"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/15?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 9010,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Simplify \\(\\sqrt{\\frac{(0.0023*750)}{(0.00345*1.25)}}\\)",
+      "image_asset": [],
+      "options": [
+        "A.   15",
+        "B.   20",
+        "C.   40",
+        "D.   75"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/16?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 637,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If \\(m*n = (\\frac{m}{n} - \\frac{n}{m}\\)) for m, n belong to R, evaluate -3*4",
+      "image_asset": [],
+      "options": [
+        "A.   \\(\\frac{-25}{12}\\)",
+        "B.   \\(\\frac{-7}{12}\\)",
+        "C.   \\(\\frac{7}{12}\\)",
+        "D.   \\(\\frac{25}{12}\\)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/17?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 3584,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "The sum of two numbers is twice their difference. If the difference of the numbers is P, find the larger of the two numbers",
+      "image_asset": [],
+      "options": [
+        "A.   p/2",
+        "B.   3p/2",
+        "C.   5p/2",
+        "D.   3p"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/18?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 1184,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A binary operation * is defined by a*b = ab+a+b for any real number a and b. if the identity element is zero, find the inverse of 2 under this operation.",
+      "image_asset": [],
+      "options": [
+        "A.   2/3",
+        "B.   1/2",
+        "C.   -1/2",
+        "D.   -2/3"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/19?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 9760,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Factorize completely X2+2XY+Y2+3X+3Y-18",
+      "image_asset": [],
+      "options": [
+        "A.   (x+y+6)(x+y-3)",
+        "B.   (x-y-6)(x-y+3)",
+        "C.   (x-y+6)(x-y-3)",
+        "D.   (x+y-6)(x+y+3)"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/20?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 5495,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. if she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+      "image_asset": [],
+      "options": [
+        "A.   4≤X≤5",
+        "B.   5≤X≤8",
+        "C.   5≤X≤10",
+        "D.   8≤X≤10"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/21?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 8157,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Three consecutive positive integers k, l and m are such that l2 = 3(k+m). Find the value of m",
+      "image_asset": [],
+      "options": [
+        "A.   4",
+        "B.   5",
+        "C.   6",
+        "D.   7"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/22?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 6408,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Express \\(\\frac{1}{X^{3}-1}\\) in partial fractions",
+      "image_asset": [],
+      "options": [
+        "A.   1/3{(1/x-1)-(x-2/x2-x+1)}",
+        "B.   1/3{(1/x-1)-(x+2/x2+x+1)}",
+        "C.   1/3{(1/x-1)-(x-2/x2+x+1)}",
+        "D.   1/3{(1/x-1)-(x-2/x2-x-1)}"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/23?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 8058,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "The first term of a geometric progression is twice its common ratio. Find the sum of the first two terms of the G.P if its sum to infinity is 8.",
+      "image_asset": [],
+      "options": [
+        "A.   8/5",
+        "B.   8/3",
+        "C.   72/25",
+        "D.   56/9"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/24?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 8456,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Divide 4x3-3x+1 by 2x-1",
+      "image_asset": [],
+      "options": [
+        "A.   2x2-x+1",
+        "B.   2x2-x-1",
+        "C.   2x2+x+1",
+        "D.   2x2+x-1"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/25?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 8405,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find a positive value of ã if the coordinate of the centre of a circle X2+y2-2ãx+4y-ã = 0 is (ã,-2) and the radius is 4 units.",
+      "image_asset": [],
+      "options": [
+        "A.   1",
+        "B.   2",
+        "C.   3",
+        "D.   4"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/26?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 4193,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A man 1.7m tall observes a bird on top of a tree at an angle of 300. if the distance between the man's head and the bird is 25m, what is the height of the tree?",
+      "image_asset": [],
+      "options": [
+        "A.   26.7m",
+        "B.   14.2m",
+        "C.   \\(1.7+(25\\frac{\\sqrt{3}}{3}m\\)",
+        "D.   \\(1.7+(25\\frac{\\sqrt{2}}{2}m\\)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/27?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 2563,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "In ∆MNO, MN = 6 units, MO = 4 units and NO = 12 units. If the bisector of and M meets NO at P, calculate NP.",
+      "image_asset": [],
+      "options": [
+        "A.   4.8 units",
+        "B.   7.2 units",
+        "C.   8.0 units",
+        "D.   18.0 units"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/28?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 2088,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the tangent to the acute angle between the lines 2x+y = 3 and 3x-2y = 5.",
+      "image_asset": [],
+      "options": [
+        "A.   -7/4",
+        "B.   7/8",
+        "C.   7/4",
+        "D.   7/2"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/29?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 6445,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "From a point P, the bearings of two points Q and R are N670W and N230E respectively. If the bearing of R from Q is N680E and PQ = 150m, calculate PR",
+      "image_asset": [],
+      "options": [
+        "A.   120m",
+        "B.   140m",
+        "C.   150m",
+        "D.   160m"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/30?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 388,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the equation of the locus of a point P(x,y) such that PV = PW, where V = (1,1) and W = (3,5)",
+      "image_asset": [],
+      "options": [
+        "A.   2x + 2y = 9",
+        "B.   2x + 3y = 8",
+        "C.   2x + y = 9",
+        "D.   x + 2y = 8"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/533?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 2317,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the area bounded by the curve y = x(2-x). The x-axis, x = 0 and x = 2.",
+      "image_asset": [],
+      "options": [
+        "A.   4 sq units",
+        "B.   2 sq units",
+        "C.   \\(\\frac{4}{3}sq\\hspace{1 mm}units\\)",
+        "D.   \\(\\frac{1}{3}sq\\hspace{1 mm}units\\)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/539?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 3689,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Evaluate: \\(\\int^{z}_{0}(sin x - cos x) dx \\hspace{1mm} Where\\hspace{1mm}letter\\hspace{1mm}z = \\frac{\\pi}{4}. (\\pi = pi)\\)",
+      "image_asset": [],
+      "options": [
+        "A.   \\(\\sqrt{2 +1}\\)",
+        "B.   \\(\\sqrt{2 }-1\\)",
+        "C.   \\(-\\sqrt{2 }-1\\)",
+        "D.   \\(1-\\sqrt{2}\\)"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/543?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 7616,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the volume of solid generated when the area enclosed by y = 0, y = 2x, and x = 3 is rotated about the x-axis.",
+      "image_asset": [],
+      "options": [
+        "A.   81 π cubic units",
+        "B.   36 π cubic units",
+        "C.   18 π cubic units",
+        "D.   9 π cubic units"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/544?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 5259,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "What is the derivative of t2 sin (3t - 5) with respect to t?",
+      "image_asset": [],
+      "options": [
+        "A.   6t cos (3t - 5)",
+        "B.   2t sin (3t - 5) - 3t2 cos (3t - 5)",
+        "C.   2t sin (3t - 5) + 3t2 cos (3t - 5)",
+        "D.   2t sin (3t - 5) + t2 cos 3t"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/546?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 5715,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Evaluate \\(\\int^{1}_{-2}(x-1)^{2}dx\\)",
+      "image_asset": [],
+      "options": [
+        "A.   \\(\\frac{-10}{3}\\)",
+        "B.   7",
+        "C.   9",
+        "D.   11"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/547?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 6185,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the value of x for which the function y = x3 - x has a minimum value.",
+      "image_asset": [],
+      "options": [
+        "A.   \\(-\\sqrt{3}\\)",
+        "B.   \\(-\\sqrt{\\frac{3}{3}}\\)",
+        "C.   \\(\\sqrt{\\frac{3}{3}}\\)",
+        "D.   \\(\\sqrt{3}\\)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/549?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 4105,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If the minimum value of y = 1 + hx - 3x2 is 13, find h.",
+      "image_asset": [],
+      "options": [
+        "A.   13",
+        "B.   12",
+        "C.   11",
+        "D.   10"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/550?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 5787,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}. Determine (P-Q) ∩ R",
+      "image_asset": [],
+      "options": [
+        "A.   {1, x}",
+        "B.   {x y}",
+        "C.   {x}",
+        "D.   ɸ"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/552?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 2475,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?",
+      "image_asset": [],
+      "options": [
+        "A.   480,000",
+        "B.   249,696",
+        "C.   249,600",
+        "D.   244,800"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/554?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 8207,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively.",
+      "image_asset": [],
+      "options": [
+        "A.   1, -2",
+        "B.   -2, 1",
+        "C.   \\(\\frac{-2}{5}\\), 1",
+        "D.   2, 3/5"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/555?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 1093,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+      "image_asset": [],
+      "options": [
+        "A.   8",
+        "B.   24",
+        "C.   62",
+        "D.   86"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/556?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 8722,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Evaluate (2.813 x 10-3 x 1.063) (5.637 x 10-2)",
+      "image_asset": [],
+      "options": [
+        "A.   0.056",
+        "B.   0.055",
+        "C.   0.054",
+        "D.   0.54"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/562?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 9502,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?",
+      "image_asset": [],
+      "options": [
+        "A.   N112,000.50",
+        "B.   N96,000.00",
+        "C.   N85,714.28",
+        "D.   N76,800.00"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/564?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 2943,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If 31410 - 2567 = 340x, find x.",
+      "image_asset": [],
+      "options": [
+        "A.   7",
+        "B.   8",
+        "C.   9",
+        "D.   10"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/567?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 6735,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Simplify 3(2n+1) - 4(2n-1) 2n+1 - 2n",
+      "image_asset": [],
+      "options": [
+        "A.   2n+1",
+        "B.   2n-1",
+        "C.   4",
+        "D.   1/4"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/573?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 5874,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If P3446 - 23P26 = 2PP26, find the value of the digit P.",
+      "image_asset": [],
+      "options": [
+        "A.   2",
+        "B.   3",
+        "C.   4",
+        "D.   5"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/576?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 4563,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A binary operation * is defined by a*b = ab. If a*2 = 2-a, find the possible values of a.",
+      "image_asset": [],
+      "options": [
+        "A.   1, -1",
+        "B.   1, 2",
+        "C.   2, -2",
+        "D.   1, -2"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/579?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 434,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "The 3rd term of an A.P is 4x - 2y and the 9th term is 10x - 8y. Find the common difference.",
+      "image_asset": [],
+      "options": [
+        "A.   19x - 17y",
+        "B.   8x - 4y",
+        "C.   x - y",
+        "D.   2x"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/582?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 1683,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity",
+      "image_asset": [],
+      "options": [
+        "A.   p",
+        "B.   p -1",
+        "C.   p/(p-1)",
+        "D.   p/(p+1)"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/719?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 6732,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1",
+      "image_asset": [],
+      "options": [
+        "A.   2/3",
+        "B.   zero",
+        "C.   -2/3",
+        "D.   -1"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/720?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 1123,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax3 + bx2 + cx - 1, find a, b, c in that order.",
+      "image_asset": [],
+      "options": [
+        "A.   -1/2, 1., 1/2",
+        "B.   1/2, 1, 1/2",
+        "C.   1/2, 1, -1/2",
+        "D.   1/2, -1, 1/2"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/721?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 8672,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A trader realizes 10x - x2 naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
+      "image_asset": [],
+      "options": [
+        "A.   4",
+        "B.   5",
+        "C.   6",
+        "D.   7"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/722?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 9873,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "Solve the inequality 2 - x > x2.",
+      "image_asset": [],
+      "options": [
+        "A.   x < -2 or x > 1",
+        "B.   x > 2 or x< -1",
+        "C.   -1 < x < 2",
+        "D.   -2 < x < 1"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/723?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 5869,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "If α and β are the roots of the equation 3x2 + 5x - 2 = 0, find the value of 1/α + 1/β",
+      "image_asset": [],
+      "options": [
+        "A.   -5/3",
+        "B.   -2/3",
+        "C.   1/2",
+        "D.   5/2"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/787?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 4528,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained.",
+      "image_asset": [],
+      "options": [
+        "A.   8.0 m",
+        "B.   8.4 m",
+        "C.   9.0 m",
+        "D.   10.0 m"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/788?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 5239,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "Mathematics",
+      "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 60°, find angle UST.",
+      "image_asset": [],
+      "options": [
+        "A.   310°",
+        "B.   130°",
+        "C.   80°",
+        "D.   50°"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/mathematics/789?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/mathematics?exam_type=jamb&exam_year=2019&page=10"
+    }
+  ],
+  "English Language": [
+    {
+      "id": 3935,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; In the match against the uplanders team, the sub mariners turned out to be the dark horse",
+      "image_asset": [],
+      "options": [
+        "A.   played most brilliantly",
+        "B.   played below their usual form",
+        "C.   won unexpectedly",
+        "D.   lost as expected",
+        "E.   won as expected"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/84?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 2245,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; Only the small fry get punished for such social misdemeanours",
+      "image_asset": [],
+      "options": [
+        "A.   small boys",
+        "B.   unimportant people",
+        "C.   frightened people",
+        "D.   frivolous people",
+        "E.   inexperienced people"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/86?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 852,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; He spoke with his heart in his mouth",
+      "image_asset": [],
+      "options": [
+        "A.   courageously",
+        "B.   with such unusual cowardice",
+        "C.   with a lot of confusion in his speech",
+        "D.   without being able to make up his mind",
+        "E.   with fright and agitation"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/89?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 1484,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The leader in today's issue of our popular newspaper focuses on inflation",
+      "image_asset": [],
+      "options": [
+        "A.   president",
+        "B.   headline",
+        "C.   editorial",
+        "D.   columnist",
+        "E.   proprietor"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/92?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 9356,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; From the ways my friend talks, you can see he is such a bore",
+      "image_asset": [],
+      "options": [
+        "A.   rude",
+        "B.   brilliant",
+        "C.   uninteresting",
+        "D.   overbearing",
+        "E.   humorous"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/95?exam_type=jamb&exam_year=2019&page=1",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=1"
+    },
+    {
+      "id": 6533,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; His jail terms were to run concurrently",
+      "image_asset": [],
+      "options": [
+        "A.   simultaneously",
+        "B.   uniformly",
+        "C.   laboriously",
+        "D.   consecutively",
+        "E.   judiciously"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/98?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 5010,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; There is some obvious symmetry in the whole presentation",
+      "image_asset": [],
+      "options": [
+        "A.   confusion",
+        "B.   hesitation",
+        "C.   excitement",
+        "D.   orderliness",
+        "E.   dissatisfaction"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/100?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 3486,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The bill has to wait as we are now insolvent",
+      "image_asset": [],
+      "options": [
+        "A.   overworked",
+        "B.   bankrupt",
+        "C.   unsettled",
+        "D.   insoluble",
+        "E.   affluent"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/102?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 1491,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; All his plans fell through",
+      "image_asset": [],
+      "options": [
+        "A.   failed",
+        "B.   were accomplished",
+        "C.   had to be reviewed",
+        "D.   were rejected",
+        "E.   fell"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/103?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 6672,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The balance sheet at the end of the business year shows that we broke even",
+      "image_asset": [],
+      "options": [
+        "A.   lost heavily",
+        "B.   made profit",
+        "C.   neither lost nor gained",
+        "D.   had no money to continue business",
+        "E.   were heavily indebted to our bankers"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/106?exam_type=jamb&exam_year=2019&page=2",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=2"
+    },
+    {
+      "id": 6327,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; He was appointed specifically to put the recruits through",
+      "image_asset": [],
+      "options": [
+        "A.   assign them to work",
+        "B.   train them",
+        "C.   discipline them",
+        "D.   assist them at work",
+        "E.   supervise them at work"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/107?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 2218,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The result of his experiment represents a break through in medical science",
+      "image_asset": [],
+      "options": [
+        "A.   an outstanding success",
+        "B.   catastrophe",
+        "C.   an end to such experiments",
+        "D.   breaking point",
+        "E.   a colossal failure"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/108?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 8405,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; Being an optimist, our professor always sees the bright side of most things",
+      "image_asset": [],
+      "options": [
+        "A.   charming",
+        "B.   illumined",
+        "C.   brilliant",
+        "D.   pleasing",
+        "E.   cheerful"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/110?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 4283,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The state government appointed a commission of inquiry to go into the community's complaints carefully and without prejudice",
+      "image_asset": [],
+      "options": [
+        "A.   investigate",
+        "B.   search",
+        "C.   look for",
+        "D.   account for",
+        "E.   ascertain"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/111?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 4302,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The traffic situation in Lagos can lead to disastrous consequences; a man lost a very lucrative job because he was held up by it",
+      "image_asset": [],
+      "options": [
+        "A.   confused",
+        "B.   delayed",
+        "C.   annoyed",
+        "D.   intrigued",
+        "E.   obstructed"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/114?exam_type=jamb&exam_year=2019&page=3",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=3"
+    },
+    {
+      "id": 4934,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; Mrs. Dada has been deserted by her husband because he feels she has a heart of stone",
+      "image_asset": [],
+      "options": [
+        "A.   she has a heavy heart",
+        "B.   she has little warmth of feeling",
+        "C.   she has a hard heart",
+        "D.   she is hard hearted",
+        "E.   she has a strong heart"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/117?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 2779,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; Mr. Jack could be a successful businessman if he paid more attention to the more intricate aspects of his account",
+      "image_asset": [],
+      "options": [
+        "A.   Mr Jack will undoubtedly succeed",
+        "B.   Mr Jack cannot succeed",
+        "C.   Jack will have a very good chance of succeeding",
+        "D.   Mr. Jack will find it difficult to succeed",
+        "E.   Mr Jack will succeed in spite of all odds"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/120?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 1679,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "If my father had not arrived, I would have starved. This sentence means",
+      "image_asset": [],
+      "options": [
+        "A.   My father did arrive and I didn't starve",
+        "B.   I had to starve because my father didn't come",
+        "C.   my father didn't arrive and I didn't starve",
+        "D.   I should have starved but I didn't",
+        "E.   I had starved before my father arrived"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/124?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 5450,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The two sprinters were running neck and neck",
+      "image_asset": [],
+      "options": [
+        "A.   exactly level",
+        "B.   very slowly",
+        "C.   very fast",
+        "D.   with their necks together",
+        "E.   together"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/126?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 2973,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; He stared at her",
+      "image_asset": [],
+      "options": [
+        "A.   glanced",
+        "B.   peeped",
+        "C.   looked",
+        "D.   gazed",
+        "E.   fixed"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/127?exam_type=jamb&exam_year=2019&page=4",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=4"
+    },
+    {
+      "id": 7599,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; When the man was caught by police he presented a bold front",
+      "image_asset": [],
+      "options": [
+        "A.   he attacked the policemen boldly",
+        "B.   he walked up to the policemen",
+        "C.   he faced the situation with apparent boldness",
+        "D.   he bravely attempted to give them a present",
+        "E.   he frowned at them in a defiant manner"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/129?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 7598,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best convey the meaning of the underlined portion in each of the following sentence; I have been able to observe him at close quarters",
+      "image_asset": [],
+      "options": [
+        "A.   in government house nearby",
+        "B.   within a short space of time",
+        "C.   in a small family house",
+        "D.   at close range",
+        "E.   at regular intervals"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/482?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 5853,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Choose the option that best conveys the meaning of the underlined portion in each of the following sentence; At the site of the ghastly accident the poor woman's hair stood on end",
+      "image_asset": [],
+      "options": [
+        "A.   the woman's hair became straight",
+        "B.   the wind blew her hair upwards",
+        "C.   the woman was unmoved",
+        "D.   the woman disarranged her hair",
+        "E.   the woman was frightened"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/486?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 249,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; When the beggar was tired he ..... down by the roadside",
+      "image_asset": [],
+      "options": [
+        "A.   lied",
+        "B.   laid",
+        "C.   layed",
+        "D.   lay",
+        "E.   lain"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/487?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 3332,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; He did not like .... leaving the class early",
+      "image_asset": [],
+      "options": [
+        "A.   we",
+        "B.   us",
+        "C.   our",
+        "D.   ourselves",
+        "E.   our selves"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/489?exam_type=jamb&exam_year=2019&page=5",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=5"
+    },
+    {
+      "id": 2943,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Before the operation, the dentist found that his patient's teeth....",
+      "image_asset": [],
+      "options": [
+        "A.   have long decayed",
+        "B.   have long been decayed",
+        "C.   have long being decayed",
+        "D.   had long decayed",
+        "E.   had been decayed"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/490?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 7064,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The employer, not the salesman and his representative .... responsible for the loss",
+      "image_asset": [],
+      "options": [
+        "A.   are",
+        "B.   are being",
+        "C.   are never",
+        "D.   have been",
+        "E.   is"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/492?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 8903,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The boy was born before his parents actually got married and so the court has declared him ....",
+      "image_asset": [],
+      "options": [
+        "A.   illegal",
+        "B.   illegitimate",
+        "C.   illicit",
+        "D.   unlawful",
+        "E.   untenable"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/493?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 8178,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "As he was still owing me two naira, i was careful not to .... him any more money",
+      "image_asset": [],
+      "options": [
+        "A.   lend",
+        "B.   loan",
+        "C.   borrow",
+        "D.   extend",
+        "E.   credit"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/495?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 3285,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Last week the .... at the theater was the longest i had ever seen",
+      "image_asset": [],
+      "options": [
+        "A.   assembly",
+        "B.   congregation",
+        "C.   convention",
+        "D.   audience",
+        "E.   crowd"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/496?exam_type=jamb&exam_year=2019&page=6",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=6"
+    },
+    {
+      "id": 8497,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; If you travel by air you will be given an allowance to cover ....",
+      "image_asset": [],
+      "options": [
+        "A.   a luggage",
+        "B.   luggage",
+        "C.   luggages",
+        "D.   a baggage",
+        "E.   baggages"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/497?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 6000,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Tennyson and Browning lived about the same time and therefore .... poets",
+      "image_asset": [],
+      "options": [
+        "A.   contrary",
+        "B.   contractual",
+        "C.   contemporaneous",
+        "D.   contemporary",
+        "E.   contemptible"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/498?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 9958,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The green snake which lives in the green grass is using a perfect ....",
+      "image_asset": [],
+      "options": [
+        "A.   ambush",
+        "B.   under cover",
+        "C.   camouflag",
+        "D.   shelter",
+        "E.   subterfuge"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/499?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 4558,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; In order to carry out necessary examination the dead body was ....",
+      "image_asset": [],
+      "options": [
+        "A.   extracted",
+        "B.   extradited",
+        "C.   exiled",
+        "D.   expelled",
+        "E.   exhumed"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/501?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 2001,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Remember this matter is strictly .....",
+      "image_asset": [],
+      "options": [
+        "A.   between you and i",
+        "B.   among you and me",
+        "C.   among you and me",
+        "D.   between you and me",
+        "E.   between you and myself"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/502?exam_type=jamb&exam_year=2019&page=7",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=7"
+    },
+    {
+      "id": 7882,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; He went abroad with a view .... a business partner",
+      "image_asset": [],
+      "options": [
+        "A.   to find",
+        "B.   to be finding",
+        "C.   to have found",
+        "D.   to finding",
+        "E.   he will find"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/504?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 583,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; He had just entered the office .... the telephone rang",
+      "image_asset": [],
+      "options": [
+        "A.   as",
+        "B.   before",
+        "C.   since",
+        "D.   when",
+        "E.   until"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/505?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 2531,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; They .... receive visitor on short notice",
+      "image_asset": [],
+      "options": [
+        "A.   use to",
+        "B.   are used to",
+        "C.   used to",
+        "D.   are always",
+        "E.   are use to"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/506?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 9976,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; His suggestion are completely .... the point and cannot be accepted",
+      "image_asset": [],
+      "options": [
+        "A.   to",
+        "B.   about",
+        "C.   beside",
+        "D.   on",
+        "E.   under"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/507?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 5064,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; For .... he is a secretary we shall not have correct minutes",
+      "image_asset": [],
+      "options": [
+        "A.   because",
+        "B.   as long as",
+        "C.   so long",
+        "D.   in as much",
+        "E.   although"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/512?exam_type=jamb&exam_year=2019&page=8",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=8"
+    },
+    {
+      "id": 2734,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; He went up quickly and returned ....",
+      "image_asset": [],
+      "options": [
+        "A.   fastest",
+        "B.   fastly",
+        "C.   as fastly",
+        "D.   as fast",
+        "E.   in fastness"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/514?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 6228,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Invariably, he ends his letters .... amicably",
+      "image_asset": [],
+      "options": [
+        "A.   you",
+        "B.   your's",
+        "C.   yours'",
+        "D.   yours",
+        "E.   your own"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/515?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 51,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; If i went to the cinema i .... early",
+      "image_asset": [],
+      "options": [
+        "A.   shall return",
+        "B.   am returning",
+        "C.   would return",
+        "D.   had return",
+        "E.   may return"
+      ],
+      "answer": "Correct Answer: Option C",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/516?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 3571,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The traditional folktales form an .... to the book",
+      "image_asset": [],
+      "options": [
+        "A.   index",
+        "B.   insertion",
+        "C.   information",
+        "D.   overview",
+        "E.   appendix"
+      ],
+      "answer": "Correct Answer: Option E",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/518?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 3980,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; the frightening explosion in the factory .... whole wing",
+      "image_asset": [],
+      "options": [
+        "A.   washed out",
+        "B.   wiped out",
+        "C.   rooted out",
+        "D.   flushed out",
+        "E.   cleared out"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/520?exam_type=jamb&exam_year=2019&page=9",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=9"
+    },
+    {
+      "id": 5656,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Our plane was scheduled to .... at 10.00 hrs but it was delayed because of the bad weather",
+      "image_asset": [],
+      "options": [
+        "A.   fly out",
+        "B.   take off",
+        "C.   start out",
+        "D.   shoot off",
+        "E.   lift off"
+      ],
+      "answer": "Correct Answer: Option B",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/521?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 6539,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; As luck would have it, the weather brightened almost immediately and after six hours flight we .... at Heathrow Airport",
+      "image_asset": [],
+      "options": [
+        "A.   touched down",
+        "B.   dropped",
+        "C.   came down",
+        "D.   flew down",
+        "E.   stopped"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/523?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 5028,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Before we left the airport, each passenger was made to .... certain form",
+      "image_asset": [],
+      "options": [
+        "A.   fill in",
+        "B.   write in",
+        "C.   enter in",
+        "D.   go through",
+        "E.   read out"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/525?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 770,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; My father cannot bear the .... of the concoction that emanates from my mothers soup pot",
+      "image_asset": [],
+      "options": [
+        "A.   sweet",
+        "B.   savouring",
+        "C.   aroma",
+        "D.   smell",
+        "E.   scent"
+      ],
+      "answer": "Correct Answer: Option D",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/528?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=10"
+    },
+    {
+      "id": 8924,
+      "year": 2019,
+      "examtype": "Jamb",
+      "subject": "English Language",
+      "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; I would not have condescended to appease the traffic policeman but i happened .... traffic regulation",
+      "image_asset": [],
+      "options": [
+        "A.   to have broken",
+        "B.   to be breaking",
+        "C.   to break",
+        "D.   to break in",
+        "E.   to have evaded"
+      ],
+      "answer": "Correct Answer: Option A",
+      "linkToanswer": "https://myschool.ng/classroom/english-language/531?exam_type=jamb&exam_year=2019&page=10",
+      "source_url": "https://myschool.ng/classroom/english-language?exam_type=jamb&exam_year=2019&page=10"
+    }
+  ]
+}

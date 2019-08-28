@@ -1,32 +1,46 @@
 import React from "react";
-import { View, StyleSheet, Platform } from "react-native";
-import { TouchableOpacity, ScrollView } from "react-native-gesture-handler";
+import {
+    View,
+    StyleSheet,
+    Platform
+} from "react-native";
+import { TouchableOpacity, ScrollView, FlatList } from "react-native-gesture-handler";
 import LinearGradient from 'react-native-linear-gradient';
 import {
     Content,
     Card,
     CardItem,
-    Body
+    Body,
+    ListItem
 } from "native-base";
 import Text from '../config/AppText';
 import styles from "../styles";
 import Icon from 'react-native-vector-icons/dist/Ionicons';
+const Questions = require('../config/data.json');
 
 class HomeScreen extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
             categories: [{
-                name: "SCIENCE",
+                id: "Mathematics",
+                name: "MATHEMATICS",
                 colors: ['#C145FF', '#50255A', '#250D43'],
                 icon: "ios-baseball"
             },
             {
-                name: "HISTORY",
+                id: "English Language",
+                name: "ENGLISH",
                 colors: ['#FCD12A', '#FFC211', '#FFE22A'],
                 icon: "ios-body"
             },
+            // {
+            //     name: "HISTORY",
+            //     colors: ['#FCD12A', '#FFC211', '#FFE22A'],
+            //     icon: "ios-body"
+            // },
             {
+                id: "Geography",
                 name: "GEOGRAPHY",
                 colors: ['#BF5400', '#F07318', '#883000'],
                 icon: "ios-planet"
@@ -48,6 +62,12 @@ class HomeScreen extends React.Component {
             }]
         }
     }
+    componentDidMount() {
+        // console.warn(Questions);
+    }
+
+    _keyExtractor = (item, index) => item.name;
+
     render() {
         return (
             <ScrollView
@@ -65,153 +85,38 @@ class HomeScreen extends React.Component {
                 </LinearGradient>
                 <View style={styles.homeContainer}>
                     <Card style={styles.cardHomeContainer}>
-                        <View style={styles.cardHomeSection}>
-                            <Card style={styles.categoryCardItem}>
+                        <FlatList
+                            data={this.state.categories}
+                            numColumns={2}
+                            keyExtractor={this._keyExtractor}
+                            renderItem={({ item }) => <Card
+                                style={styles.categoryCardItem}>
                                 <CardItem
                                     button
                                     style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
+                                    onPress={() => this.props.navigation.navigate("Practice", {
+                                        id: item.id
+                                    })}
                                 >
                                     <View style={{ alignItems: "center" }}>
                                         <LinearGradient
                                             style={styles.iconStyle}
-                                            colors={['#C145FF', '#50255A', '#250D43']}>
+                                            colors={item.colors}>
                                             <Icon
-                                                name="ios-baseball"
+                                                name={item.icon}
                                                 style={{ color: "white", fontSize: 18, textAlign: "center" }}
                                             />
                                         </LinearGradient>
                                         <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>SCIENCE</Text>
+                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>{item.name}</Text>
                                         </View>
                                     </View>
                                 </CardItem>
                             </Card>
-
-                            <Card style={styles.categoryCardItem}>
-                                <CardItem
-                                    button
-                                    style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
-                                >
-                                    <View style={{ alignItems: "center" }}>
-                                        <LinearGradient
-                                            style={styles.iconStyle}
-                                            colors={['#FCD12A', '#FFC211', '#FFE22A']}>
-                                            <Icon
-                                                type="Ionicons"
-                                                name="ios-body"
-                                                style={{ color: "white", fontSize: 18, textAlign: "center" }}
-                                            />
-                                        </LinearGradient>
-                                        <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>HISTORY</Text>
-                                        </View>
-                                    </View>
-                                </CardItem>
-                            </Card>
-                        </View>
-
-                        <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-                            <Card style={styles.categoryCardItem}>
-                                <CardItem
-                                    button
-                                    style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
-                                >
-                                    <View style={{ alignItems: "center" }}>
-                                        <LinearGradient
-                                            style={styles.iconStyle}
-                                            colors={['#BF5400', '#F07318', '#883000']}>
-                                            <Icon
-                                                type="Ionicons"
-                                                name="ios-planet"
-                                                style={{ color: "white", fontSize: 18, textAlign: "center" }}
-                                            />
-                                        </LinearGradient>
-                                        <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>GEOGRAPHY</Text>
-                                        </View>
-                                    </View>
-                                </CardItem>
-                            </Card>
-
-                            <Card style={styles.categoryCardItem}>
-                                <CardItem
-                                    button
-                                    style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
-                                >
-                                    <View style={{ alignItems: "center" }}>
-                                        <LinearGradient
-                                            style={styles.iconStyle}
-                                            colors={['#06C048', '#76BA1A', '#597D34']}>
-                                            <Icon
-                                                type="Ionicons"
-                                                name="ios-outlet"
-                                                style={{ color: "white", fontSize: 18, textAlign: "center" }}
-                                            />
-                                        </LinearGradient>
-                                        <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>COMPUTER</Text>
-                                        </View>
-                                    </View>
-                                </CardItem>
-                            </Card>
-                        </View>
-
-                        <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-                            <Card style={styles.categoryCardItem}>
-                                <CardItem
-                                    button
-                                    style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
-                                >
-                                    <View style={{ alignItems: "center" }}>
-                                        <LinearGradient
-                                            style={styles.iconStyle}
-                                            colors={['#FCD12A', '#FFC211', '#FFE22A']}>
-                                            <Icon
-                                                type="Ionicons"
-                                                name="ios-baseball"
-                                                style={{ color: "white", fontSize: 18, textAlign: "center" }}
-                                            />
-                                        </LinearGradient>
-                                        <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>WORLD</Text>
-                                        </View>
-                                    </View>
-                                </CardItem>
-                            </Card>
-
-                            <Card style={styles.categoryCardItem}>
-                                <CardItem
-                                    button
-                                    style={styles.cardButton}
-                                    onPress={() => this.props.navigation.navigate("Practice")}
-                                >
-                                    <View style={{ alignItems: "center" }}>
-                                        <LinearGradient
-                                            style={styles.iconStyle}
-                                            colors={['#C145FF', '#50255A', '#250D43']}>
-                                            <Icon
-                                                type="Ionicons"
-                                                name="ios-color-palette"
-                                                style={{ color: "white", fontSize: 18, textAlign: "center" }}
-                                            />
-                                        </LinearGradient>
-                                        <View style={{ marginTop: 10 }}>
-                                            <Text style={{ fontSize: 12, fontFamily: "Lato-Black" }}>OTHER</Text>
-                                        </View>
-                                    </View>
-                                </CardItem>
-                            </Card>
-                        </View>
+                            }
+                        />
                     </Card>
                 </View>
-                {/* <TouchableOpacity onPress={() => { this.props.navigation.navigate("Practice") }}>
-                    <Text>Home Screen</Text>
-                </TouchableOpacity> */}
             </ScrollView>
         );
     }

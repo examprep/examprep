@@ -11,13 +11,18 @@ const styles = StyleSheet.create({
         // marginTop: Platform.OS === "ios" ? 50 : 0,
         padding: 20
     },
+    scrollContainer: {
+        flexGrow: 1,
+        padding: 20,
+        backgroundColor: "#252C49"
+    },
     textStartSection: {
         fontSize: 35,
         color: "white",
         textAlign: "center"
     },
     textQuestion: {
-        fontSize: 25,
+        fontSize: 18,
         color: "white"
     },
     homeContainer: {
@@ -46,7 +51,7 @@ const styles = StyleSheet.create({
         justifyContent: "center"
     },
     answerContainer: {
-        marginTop: 80
+        marginTop: 50
     },
     answerCard: {
         width: "100%",
@@ -55,7 +60,7 @@ const styles = StyleSheet.create({
         borderWidth: 5,
         borderColor: "#244868",
         justifyContent: "center",
-        padding: 20,
+        padding: 15,
         marginBottom: 15
     },
     questionProgressContainer: {
@@ -68,10 +73,10 @@ const styles = StyleSheet.create({
     questionProgress: {
         width: "65%",
         height: "100%",
-        borderRadius: 25
+        // borderRadius: 25
     },
     textAnswer: {
-        width: 280
+        width: 260
     },
     answerCheckBox: {
         height: "100%",
@@ -87,6 +92,13 @@ const styles = StyleSheet.create({
     answerCardAlign: {
         flexDirection: "row",
         justifyContent: "space-evenly"
+    },
+    practiceBtn: {
+        width: 140,
+        height: 40,
+        alignItems: "center",
+        justifyContent: "center",
+        borderRadius: 60 / 2
     }
 })
 
