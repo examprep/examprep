@@ -19,7 +19,7 @@ function ShowTimer({ interval, endPractice }) {
             timeLabelStyle={{ color: '#ccc' }}
             timeToShow={['M', 'S']}
             timeLabels={{ m: 'MM', s: 'SS' }}
-            until={20}
+            until={1800}
             onFinish={() => endPractice()}
             onPress={() => alert('hello')}
             size={20}
@@ -76,33 +76,6 @@ class Practice extends React.Component {
         }
     }
 
-    correctAnswer(ques, quesIndex, ansIndex) {
-        let answer = this.state.questions.filter(f => f.id === ques.id)[0].answer;
-        let answerOption = answer[answer.length - 1];
-        let selectedAnswer = this.state.selectedAnswers && this.state.selectedAnswers.filter(e => e['questionIndex'] === quesIndex && e['answerIndex'] === ansIndex);
-        if (selectedAnswer.length > 0) {
-            let selectedAnswerOption = selectedAnswer[0].answer[selectedAnswer[0].answer.length - 1]
-            if (answerOption === selectedAnswerOption) {
-                alert('correct answer!')
-                return true;
-            }
-        }
-        return false;
-    }
-
-    wrongAnswer(ques, quesIndex, ansIndex) {
-        // let indexOfAns = this.state.questions.filter(f => f.question === ques.question)[0].answer;
-        // let selectedAnswer = this.state.selectedAnswers && this.state.selectedAnswers.filter(e => e['questionIndex'] === quesIndex && e['answerIndex'] === ansIndex);
-        // if (selectedAnswer.length > 0) {
-        //     if (indexOfAns !== selectedAnswer[0].answerIndex) {
-        //         return true;
-        //     }
-        // }
-        return false;
-    }
-
-
-
     calculateScore = () => {
         let totalScore = 0;
         this.state.selectedAnswers.filter(e => {
@@ -121,6 +94,13 @@ class Practice extends React.Component {
         setTimeout(() => {
             this.calculateScore()
         }, 0);
+    }
+
+    resetPractice = () => {
+        this.setState({
+            currentIndex: 0,
+            selectedAnswers: []
+        })
     }
 
     verifyInput(quesIndex, ansIndex, prop) {
@@ -145,11 +125,7 @@ class Practice extends React.Component {
                         {
                             ques.options.map((ans, k) =>
                                 <TouchableOpacity
-                                    style={[styles.answerCard
-                                        // this.correctAnswer(ques, i, k) ? { borderColor: "green" } : null,
-                                        // this.wrongAnswer(ques, i, k) ? { borderColor: "red" } : null,
-                                        //     // e === i && this.correctAnswer(ques, i, k) ? { borderColor: "green" } : { borderColor:  "red" }
-                                    ]}
+                                    style={[styles.answerCard]}
                                     key={k}
                                     onPress={() => this.handleSelectCheck(ques, ans, i, k)}
                                 >
@@ -235,8 +211,42 @@ class Practice extends React.Component {
                             </View> : null
                         }
                         {
-                            !this.state.complete ? <View style={{ marginTop: 20, marginBottom: -10 }}>
-                                <ShowTimer endPractice={this.endPractice} />
+                            !this.state.complete ? <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
+                                <TouchableOpacity
+                                    onPress={() => this.resetPractice()}
+                                    activeOpacity={0.7}
+                                >
+                                    <LinearGradient
+                                        style={styles.actionBtn}
+                                        start={{ x: 1, y: 2 }} end={{ x: 1, y: 0 }} colors={['#4C9A29', '#1E5630', '#67BB59']}>
+                                        <LinearGradient
+                                            style={styles.innerActionBtn}
+                                            start={{ x: 1, y: 2 }} end={{ x: 1, y: 0 }} colors={['#4C9A29', '#1E5630', '#67BB59']}>
+                                            <Icon
+                                                style={{ color: "white", fontSize: 20 }}
+                                                name="ios-refresh" />
+                                        </LinearGradient>
+                                    </LinearGradient>
+                                </TouchableOpacity>
+                                <View style={{ marginTop: 20, marginBottom: -10 }}>
+                                    <ShowTimer endPractice={this.endPractice} />
+                                </View>
+                            <TouchableOpacity
+                                    onPress={() => this.endPractice()}
+                                    activeOpacity={0.7}
+                                >
+                                    <LinearGradient
+                                        style={styles.actionBtn}
+                                        start={{ x: 1, y: 2 }} end={{ x: 1, y: 0 }} colors={['#F2784E', '#FF4531', '#ED5768']}>
+                                        <LinearGradient
+                                            style={styles.innerActionBtn}
+                                            start={{ x: 1, y: 2 }} end={{ x: 1, y: 0 }} colors={['#F2784E', '#FF4531', '#ED5768']}>
+                                            <Icon
+                                                style={{ color: "white", fontSize: 20 }}
+                                                name="ios-power" />
+                                        </LinearGradient>
+                                    </LinearGradient>
+                                </TouchableOpacity>
                             </View> : null
                         }
                         {

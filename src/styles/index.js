@@ -32,8 +32,9 @@ const styles = StyleSheet.create({
     },
     cardHomeContainer: {
         padding: 10,
-        paddingTop: 20,
-        paddingBottom: 20
+        paddingTop: 30,
+        paddingBottom: 30,
+        borderRadius: 8
     },
     cardHomeSection: {
         flexDirection: "row",
@@ -41,9 +42,9 @@ const styles = StyleSheet.create({
     },
     categoryCardItem: {
         height: 120,
-        width: '47%',
+        width: '49%',
         alignItems: "center",
-        justifyContent: "center"
+        justifyContent: "center",
     },
     cardButton: {
         width: "100%",
@@ -99,6 +100,26 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
         borderRadius: 60 / 2
+    },
+    actionBtn: {
+        width: 50,
+        height: 50,
+        backgroundColor: "red",
+        borderRadius: 50 / 2,
+        justifyContent: "center",
+        alignItems: "center",
+        marginTop: 20,
+        marginHorizontal: 20
+    },
+    innerActionBtn: {
+        width: 48,
+        height: 48,
+        backgroundColor: "red",
+        borderRadius: 48 / 2,
+        borderWidth: 2,
+        borderColor: "#343839",
+        justifyContent: "center",
+        alignItems: "center"
     }
 })
 

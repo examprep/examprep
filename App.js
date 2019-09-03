@@ -24,11 +24,26 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import AppNavigator from './src/navigation';
+import SplashScreen from 'react-native-splash-screen'
 
-const App = () => {
-  return (
-    <AppNavigator />
-  );
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isAppReady: false
+    }
+  }
+  componentDidMount() {
+    setTimeout(() => {
+      SplashScreen.hide();
+      this.setState({ isAppReady: true })
+    }, 2000);
+  }
+  render() {
+    return (
+      <AppNavigator />
+    );
+  }
 };
 
 const styles = StyleSheet.create({

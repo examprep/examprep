@@ -26,23 +26,7 @@ class Practice extends React.Component {
     render() {
         return (
             <ScrollView contentContainerStyle={[styles.container, { backgroundColor: "#252C49", flexGrow: 1 }]}>
-                <View style={{ flexGrow: 1, alignItems: "center", justifyContent: "center" }}>
-                        <Icon
-                            style={{ fontSize: 80, color: "#9199BD" }}
-                            name="ios-bonfire" />
-                        <Text style={{ fontSize: 25, color: "white", textAlign: "center" }}>Congratulations!!! You have completed the test.</Text>
-                        <TouchableOpacity
-                            style={{ marginTop: 20 }}
-                            onPress={() => this.props.navigation.navigate("Home")}
-                        >
-                            <LinearGradient
-                                start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}
-                                style={{ width: 160, height: 50, alignItems: "center", justifyContent: "center", borderRadius: 70 / 2 }}
-                                colors={['#0F7FED', '#2A8CED', '#137DEA']}>
-                                <Text style={{ fontSize: 20, color: "white" }}>Start Again!</Text>
-                            </LinearGradient>
-                        </TouchableOpacity>
-                    </View>
+                
             </ScrollView>
         );
     }

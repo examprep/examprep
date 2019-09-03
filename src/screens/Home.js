@@ -74,7 +74,7 @@ class HomeScreen extends React.Component {
                 contentContainerStyle={{ ...StyleSheet.absoluteFill, flexGrow: 1 }}
             >
                 <LinearGradient
-                    start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}
+                    start={{ x: 1, y: 2 }} end={{ x: 1, y: 0 }}
                     style={{ height: 250, alignItems: "center", justifyContent: "center" }}
                     colors={['#00c6c6', '#192f6a', '#62f9f9']}>
                     <View style={[{ padding: 30, alignSelf: "center" }, Platform.OS === 'ios' ? { marginTop: 30 } : null]}>
